@@ -65,19 +65,3 @@ Key capabilities:
 
 ---
 
-##  Project Structure
-
-root/
-│── data/
-│ └── transactions.csv
-│
-│── notebooks/
-│ └── finance_llm.ipynb
-│
-│── dashboard/
-│ └── finance_dashboard.py
-│
-│── model/
-│ └── expense_analyzer_model.txt # custom Ollama model file
-│
-└── README.md
